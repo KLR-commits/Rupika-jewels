@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "RJ-001",
+    "name": "Rupika Signature Edit 001",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-260.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-002",
+    "name": "Rupika Signature Edit 002",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-180.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-003",
+    "name": "Rupika Signature Edit 003",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-196.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-004",
+    "name": "Rupika Signature Edit 004",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-217.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-005",
+    "name": "Rupika Signature Edit 005",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-187.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-006",
+    "name": "Rupika Signature Edit 006",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-278.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-007",
+    "name": "Rupika Signature Edit 007",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-225.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-008",
+    "name": "Rupika Signature Edit 008",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-240.jpg",
+    "featured": true
+  },
+  {
+    "id": "RJ-009",
+    "name": "Rupika Signature Edit 009",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-001.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-010",
+    "name": "Rupika Signature Edit 010",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-002.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-011",
+    "name": "Rupika Signature Edit 011",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-003.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-012",
+    "name": "Rupika Signature Edit 012",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-004.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-013",
+    "name": "Rupika Signature Edit 013",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-005.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-014",
+    "name": "Rupika Signature Edit 014",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-006.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-015",
+    "name": "Rupika Signature Edit 015",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-007.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-016",
+    "name": "Rupika Signature Edit 016",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-008.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-017",
+    "name": "Rupika Signature Edit 017",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-009.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-018",
+    "name": "Rupika Signature Edit 018",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-010.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-019",
+    "name": "Rupika Signature Edit 019",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-011.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-020",
+    "name": "Rupika Signature Edit 020",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-012.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-021",
+    "name": "Rupika Signature Edit 021",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-013.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-022",
+    "name": "Rupika Signature Edit 022",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-014.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-023",
+    "name": "Rupika Signature Edit 023",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-015.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-024",
+    "name": "Rupika Signature Edit 024",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-016.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-025",
+    "name": "Rupika Signature Edit 025",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-017.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-026",
+    "name": "Rupika Signature Edit 026",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-018.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-027",
+    "name": "Rupika Signature Edit 027",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-019.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-028",
+    "name": "Rupika Signature Edit 028",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-020.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-029",
+    "name": "Rupika Signature Edit 029",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-021.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-030",
+    "name": "Rupika Signature Edit 030",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-022.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-031",
+    "name": "Rupika Signature Edit 031",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-023.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-032",
+    "name": "Rupika Signature Edit 032",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-024.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-033",
+    "name": "Rupika Signature Edit 033",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-025.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-034",
+    "name": "Rupika Signature Edit 034",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-026.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-035",
+    "name": "Rupika Signature Edit 035",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-027.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-036",
+    "name": "Rupika Signature Edit 036",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-028.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-037",
+    "name": "Rupika Signature Edit 037",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-029.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-038",
+    "name": "Rupika Signature Edit 038",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-030.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-039",
+    "name": "Rupika Signature Edit 039",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-031.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-040",
+    "name": "Rupika Signature Edit 040",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-032.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-041",
+    "name": "Rupika Signature Edit 041",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-033.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-042",
+    "name": "Rupika Signature Edit 042",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-034.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-043",
+    "name": "Rupika Signature Edit 043",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-035.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-044",
+    "name": "Rupika Signature Edit 044",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-036.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-045",
+    "name": "Rupika Signature Edit 045",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-037.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-046",
+    "name": "Rupika Signature Edit 046",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-038.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-047",
+    "name": "Rupika Signature Edit 047",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-039.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-048",
+    "name": "Rupika Signature Edit 048",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-040.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-049",
+    "name": "Rupika Signature Edit 049",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-041.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-050",
+    "name": "Rupika Signature Edit 050",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-042.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-051",
+    "name": "Rupika Signature Edit 051",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-043.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-052",
+    "name": "Rupika Signature Edit 052",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-044.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-053",
+    "name": "Rupika Signature Edit 053",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-045.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-054",
+    "name": "Rupika Signature Edit 054",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-046.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-055",
+    "name": "Rupika Signature Edit 055",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-047.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-056",
+    "name": "Rupika Signature Edit 056",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-048.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-057",
+    "name": "Rupika Signature Edit 057",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-049.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-058",
+    "name": "Rupika Signature Edit 058",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-050.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-059",
+    "name": "Rupika Signature Edit 059",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-051.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-060",
+    "name": "Rupika Signature Edit 060",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-052.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-061",
+    "name": "Rupika Signature Edit 061",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-053.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-062",
+    "name": "Rupika Signature Edit 062",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-054.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-063",
+    "name": "Rupika Signature Edit 063",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-055.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-064",
+    "name": "Rupika Signature Edit 064",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-056.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-065",
+    "name": "Rupika Signature Edit 065",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-057.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-066",
+    "name": "Rupika Signature Edit 066",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-058.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-067",
+    "name": "Rupika Signature Edit 067",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-059.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-068",
+    "name": "Rupika Signature Edit 068",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-060.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-069",
+    "name": "Rupika Signature Edit 069",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-061.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-070",
+    "name": "Rupika Signature Edit 070",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-062.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-071",
+    "name": "Rupika Signature Edit 071",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-063.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-072",
+    "name": "Rupika Signature Edit 072",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-064.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-073",
+    "name": "Rupika Signature Edit 073",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-065.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-074",
+    "name": "Rupika Signature Edit 074",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-066.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-075",
+    "name": "Rupika Signature Edit 075",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-067.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-076",
+    "name": "Rupika Signature Edit 076",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-068.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-077",
+    "name": "Rupika Signature Edit 077",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-069.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-078",
+    "name": "Rupika Signature Edit 078",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-070.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-079",
+    "name": "Rupika Signature Edit 079",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-071.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-080",
+    "name": "Rupika Signature Edit 080",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-072.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-081",
+    "name": "Rupika Signature Edit 081",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-073.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-082",
+    "name": "Rupika Signature Edit 082",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-074.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-083",
+    "name": "Rupika Signature Edit 083",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-075.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-084",
+    "name": "Rupika Signature Edit 084",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-076.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-085",
+    "name": "Rupika Signature Edit 085",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-077.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-086",
+    "name": "Rupika Signature Edit 086",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-078.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-087",
+    "name": "Rupika Signature Edit 087",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-079.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-088",
+    "name": "Rupika Signature Edit 088",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-080.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-089",
+    "name": "Rupika Signature Edit 089",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-081.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-090",
+    "name": "Rupika Signature Edit 090",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-082.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-091",
+    "name": "Rupika Signature Edit 091",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-083.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-092",
+    "name": "Rupika Signature Edit 092",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-084.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-093",
+    "name": "Rupika Signature Edit 093",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-085.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-094",
+    "name": "Rupika Signature Edit 094",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-086.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-095",
+    "name": "Rupika Signature Edit 095",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-087.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-096",
+    "name": "Rupika Signature Edit 096",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-088.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-097",
+    "name": "Rupika Signature Edit 097",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-089.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-098",
+    "name": "Rupika Signature Edit 098",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-090.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-099",
+    "name": "Rupika Signature Edit 099",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-091.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-100",
+    "name": "Rupika Signature Edit 100",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-092.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-101",
+    "name": "Rupika Signature Edit 101",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-093.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-102",
+    "name": "Rupika Signature Edit 102",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-094.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-103",
+    "name": "Rupika Signature Edit 103",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-095.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-104",
+    "name": "Rupika Signature Edit 104",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-096.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-105",
+    "name": "Rupika Signature Edit 105",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-097.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-106",
+    "name": "Rupika Signature Edit 106",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-098.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-107",
+    "name": "Rupika Signature Edit 107",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-099.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-108",
+    "name": "Rupika Signature Edit 108",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-100.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-109",
+    "name": "Rupika Signature Edit 109",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-101.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-110",
+    "name": "Rupika Signature Edit 110",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-102.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-111",
+    "name": "Rupika Signature Edit 111",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-103.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-112",
+    "name": "Rupika Signature Edit 112",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-104.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-113",
+    "name": "Rupika Signature Edit 113",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-105.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-114",
+    "name": "Rupika Signature Edit 114",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-106.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-115",
+    "name": "Rupika Signature Edit 115",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-107.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-116",
+    "name": "Rupika Signature Edit 116",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-108.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-117",
+    "name": "Rupika Signature Edit 117",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-109.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-118",
+    "name": "Rupika Signature Edit 118",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-110.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-119",
+    "name": "Rupika Signature Edit 119",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-111.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-120",
+    "name": "Rupika Signature Edit 120",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-112.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-121",
+    "name": "Rupika Signature Edit 121",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-113.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-122",
+    "name": "Rupika Signature Edit 122",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-114.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-123",
+    "name": "Rupika Signature Edit 123",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-115.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-124",
+    "name": "Rupika Signature Edit 124",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-116.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-125",
+    "name": "Rupika Signature Edit 125",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-117.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-126",
+    "name": "Rupika Signature Edit 126",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-118.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-127",
+    "name": "Rupika Signature Edit 127",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-119.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-128",
+    "name": "Rupika Signature Edit 128",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-120.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-129",
+    "name": "Rupika Signature Edit 129",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-121.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-130",
+    "name": "Rupika Signature Edit 130",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-122.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-131",
+    "name": "Rupika Signature Edit 131",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-123.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-132",
+    "name": "Rupika Signature Edit 132",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-124.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-133",
+    "name": "Rupika Signature Edit 133",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-125.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-134",
+    "name": "Rupika Signature Edit 134",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-126.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-135",
+    "name": "Rupika Signature Edit 135",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-127.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-136",
+    "name": "Rupika Signature Edit 136",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-128.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-137",
+    "name": "Rupika Signature Edit 137",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-129.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-138",
+    "name": "Rupika Signature Edit 138",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-130.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-139",
+    "name": "Rupika Signature Edit 139",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-131.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-140",
+    "name": "Rupika Signature Edit 140",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-132.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-141",
+    "name": "Rupika Signature Edit 141",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-133.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-142",
+    "name": "Rupika Signature Edit 142",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-134.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-143",
+    "name": "Rupika Signature Edit 143",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-135.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-144",
+    "name": "Rupika Signature Edit 144",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-136.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-145",
+    "name": "Rupika Signature Edit 145",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-137.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-146",
+    "name": "Rupika Signature Edit 146",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-138.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-147",
+    "name": "Rupika Signature Edit 147",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-139.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-148",
+    "name": "Rupika Signature Edit 148",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-140.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-149",
+    "name": "Rupika Signature Edit 149",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-141.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-150",
+    "name": "Rupika Signature Edit 150",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-142.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-151",
+    "name": "Rupika Signature Edit 151",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-143.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-152",
+    "name": "Rupika Signature Edit 152",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-144.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-153",
+    "name": "Rupika Signature Edit 153",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-145.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-154",
+    "name": "Rupika Signature Edit 154",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-146.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-155",
+    "name": "Rupika Signature Edit 155",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-147.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-156",
+    "name": "Rupika Signature Edit 156",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-148.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-157",
+    "name": "Rupika Signature Edit 157",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-149.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-158",
+    "name": "Rupika Signature Edit 158",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-150.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-159",
+    "name": "Rupika Signature Edit 159",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-151.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-160",
+    "name": "Rupika Signature Edit 160",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-152.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-161",
+    "name": "Rupika Signature Edit 161",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-153.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-162",
+    "name": "Rupika Signature Edit 162",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-154.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-163",
+    "name": "Rupika Signature Edit 163",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-155.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-164",
+    "name": "Rupika Signature Edit 164",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-156.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-165",
+    "name": "Rupika Signature Edit 165",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-157.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-166",
+    "name": "Rupika Signature Edit 166",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-158.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-167",
+    "name": "Rupika Signature Edit 167",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-159.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-168",
+    "name": "Rupika Signature Edit 168",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-160.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-169",
+    "name": "Rupika Signature Edit 169",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-161.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-170",
+    "name": "Rupika Signature Edit 170",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-162.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-171",
+    "name": "Rupika Signature Edit 171",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-163.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-172",
+    "name": "Rupika Signature Edit 172",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-164.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-173",
+    "name": "Rupika Signature Edit 173",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-165.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-174",
+    "name": "Rupika Signature Edit 174",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-166.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-175",
+    "name": "Rupika Signature Edit 175",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-167.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-176",
+    "name": "Rupika Signature Edit 176",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-168.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-177",
+    "name": "Rupika Signature Edit 177",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-169.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-178",
+    "name": "Rupika Signature Edit 178",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-170.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-179",
+    "name": "Rupika Signature Edit 179",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-171.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-180",
+    "name": "Rupika Signature Edit 180",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-172.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-181",
+    "name": "Rupika Signature Edit 181",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-173.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-182",
+    "name": "Rupika Signature Edit 182",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-174.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-183",
+    "name": "Rupika Signature Edit 183",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-175.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-184",
+    "name": "Rupika Signature Edit 184",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-176.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-185",
+    "name": "Rupika Signature Edit 185",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-177.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-186",
+    "name": "Rupika Signature Edit 186",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-178.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-187",
+    "name": "Rupika Signature Edit 187",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-179.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-188",
+    "name": "Rupika Signature Edit 188",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-181.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-189",
+    "name": "Rupika Signature Edit 189",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-182.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-190",
+    "name": "Rupika Signature Edit 190",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-183.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-191",
+    "name": "Rupika Signature Edit 191",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-184.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-192",
+    "name": "Rupika Signature Edit 192",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-185.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-193",
+    "name": "Rupika Signature Edit 193",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-186.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-194",
+    "name": "Rupika Signature Edit 194",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-188.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-195",
+    "name": "Rupika Signature Edit 195",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-189.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-196",
+    "name": "Rupika Signature Edit 196",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-190.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-197",
+    "name": "Rupika Signature Edit 197",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-191.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-198",
+    "name": "Rupika Signature Edit 198",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-192.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-199",
+    "name": "Rupika Signature Edit 199",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-193.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-200",
+    "name": "Rupika Signature Edit 200",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-194.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-201",
+    "name": "Rupika Signature Edit 201",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-195.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-202",
+    "name": "Rupika Signature Edit 202",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-197.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-203",
+    "name": "Rupika Signature Edit 203",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-198.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-204",
+    "name": "Rupika Signature Edit 204",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-199.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-205",
+    "name": "Rupika Signature Edit 205",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-200.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-206",
+    "name": "Rupika Signature Edit 206",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-201.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-207",
+    "name": "Rupika Signature Edit 207",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-202.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-208",
+    "name": "Rupika Signature Edit 208",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-203.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-209",
+    "name": "Rupika Signature Edit 209",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-204.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-210",
+    "name": "Rupika Signature Edit 210",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-205.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-211",
+    "name": "Rupika Signature Edit 211",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-206.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-212",
+    "name": "Rupika Signature Edit 212",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-207.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-213",
+    "name": "Rupika Signature Edit 213",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-208.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-214",
+    "name": "Rupika Signature Edit 214",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-209.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-215",
+    "name": "Rupika Signature Edit 215",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-210.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-216",
+    "name": "Rupika Signature Edit 216",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-211.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-217",
+    "name": "Rupika Signature Edit 217",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-212.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-218",
+    "name": "Rupika Signature Edit 218",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-213.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-219",
+    "name": "Rupika Signature Edit 219",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-214.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-220",
+    "name": "Rupika Signature Edit 220",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-215.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-221",
+    "name": "Rupika Signature Edit 221",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-216.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-222",
+    "name": "Rupika Signature Edit 222",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-218.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-223",
+    "name": "Rupika Signature Edit 223",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-219.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-224",
+    "name": "Rupika Signature Edit 224",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-220.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-225",
+    "name": "Rupika Signature Edit 225",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-221.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-226",
+    "name": "Rupika Signature Edit 226",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-222.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-227",
+    "name": "Rupika Signature Edit 227",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-223.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-228",
+    "name": "Rupika Signature Edit 228",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-224.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-229",
+    "name": "Rupika Signature Edit 229",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-226.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-230",
+    "name": "Rupika Signature Edit 230",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-227.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-231",
+    "name": "Rupika Signature Edit 231",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-228.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-232",
+    "name": "Rupika Signature Edit 232",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-229.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-233",
+    "name": "Rupika Signature Edit 233",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-230.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-234",
+    "name": "Rupika Signature Edit 234",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-231.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-235",
+    "name": "Rupika Signature Edit 235",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-232.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-236",
+    "name": "Rupika Signature Edit 236",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-233.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-237",
+    "name": "Rupika Signature Edit 237",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-234.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-238",
+    "name": "Rupika Signature Edit 238",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-235.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-239",
+    "name": "Rupika Signature Edit 239",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-236.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-240",
+    "name": "Rupika Signature Edit 240",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-237.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-241",
+    "name": "Rupika Signature Edit 241",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-238.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-242",
+    "name": "Rupika Signature Edit 242",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-239.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-243",
+    "name": "Rupika Signature Edit 243",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-241.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-244",
+    "name": "Rupika Signature Edit 244",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-242.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-245",
+    "name": "Rupika Signature Edit 245",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-243.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-246",
+    "name": "Rupika Signature Edit 246",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-244.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-247",
+    "name": "Rupika Signature Edit 247",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-245.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-248",
+    "name": "Rupika Signature Edit 248",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-246.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-249",
+    "name": "Rupika Signature Edit 249",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-247.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-250",
+    "name": "Rupika Signature Edit 250",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-248.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-251",
+    "name": "Rupika Signature Edit 251",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-249.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-252",
+    "name": "Rupika Signature Edit 252",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-250.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-253",
+    "name": "Rupika Signature Edit 253",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-251.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-254",
+    "name": "Rupika Signature Edit 254",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-252.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-255",
+    "name": "Rupika Signature Edit 255",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-253.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-256",
+    "name": "Rupika Signature Edit 256",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-254.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-257",
+    "name": "Rupika Signature Edit 257",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-255.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-258",
+    "name": "Rupika Signature Edit 258",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-256.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-259",
+    "name": "Rupika Signature Edit 259",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-257.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-260",
+    "name": "Rupika Signature Edit 260",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-258.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-261",
+    "name": "Rupika Signature Edit 261",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-259.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-262",
+    "name": "Rupika Signature Edit 262",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-261.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-263",
+    "name": "Rupika Signature Edit 263",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-262.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-264",
+    "name": "Rupika Signature Edit 264",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-263.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-265",
+    "name": "Rupika Signature Edit 265",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-264.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-266",
+    "name": "Rupika Signature Edit 266",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-265.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-267",
+    "name": "Rupika Signature Edit 267",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-266.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-268",
+    "name": "Rupika Signature Edit 268",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-267.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-269",
+    "name": "Rupika Signature Edit 269",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-268.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-270",
+    "name": "Rupika Signature Edit 270",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-269.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-271",
+    "name": "Rupika Signature Edit 271",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-270.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-272",
+    "name": "Rupika Signature Edit 272",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-271.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-273",
+    "name": "Rupika Signature Edit 273",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-272.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-274",
+    "name": "Rupika Signature Edit 274",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-273.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-275",
+    "name": "Rupika Signature Edit 275",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-274.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-276",
+    "name": "Rupika Signature Edit 276",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-275.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-277",
+    "name": "Rupika Signature Edit 277",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-276.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-278",
+    "name": "Rupika Signature Edit 278",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-277.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-279",
+    "name": "Rupika Signature Edit 279",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-279.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-280",
+    "name": "Rupika Signature Edit 280",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-280.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-281",
+    "name": "Rupika Signature Edit 281",
+    "category": "Jewellery",
+    "description": "An elegant expression of Indian jewellery, selected for its refined presence and the moments it is made to accompany.",
+    "image": "assets/products/jewellery-281.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-282",
+    "name": "Rupika Signature Edit 282",
+    "category": "Jewellery",
+    "description": "A beautifully considered piece with a graceful silhouette, chosen to bring polish and personality to your look.",
+    "image": "assets/products/jewellery-282.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-283",
+    "name": "Rupika Signature Edit 283",
+    "category": "Jewellery",
+    "description": "A statement worth remembering — thoughtfully selected for celebrations, festive dressing and beautifully dressed evenings.",
+    "image": "assets/products/jewellery-283.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-284",
+    "name": "Rupika Signature Edit 284",
+    "category": "Jewellery",
+    "description": "Designed to feel special without feeling overdone, this piece brings an effortless finish to occasion dressing.",
+    "image": "assets/products/jewellery-284.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-285",
+    "name": "Rupika Signature Edit 285",
+    "category": "Jewellery",
+    "description": "A refined addition to your jewellery wardrobe, balancing traditional character with an easy, contemporary presence.",
+    "image": "assets/products/jewellery-285.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-286",
+    "name": "Rupika Signature Edit 286",
+    "category": "Jewellery",
+    "description": "Made for moments that deserve a little more sparkle, this carefully selected design adds depth and elegance to the ensemble.",
+    "image": "assets/products/jewellery-286.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-287",
+    "name": "Rupika Signature Edit 287",
+    "category": "Jewellery",
+    "description": "A distinctive Rupika selection with an expressive silhouette, perfect when you want your jewellery to become part of the story.",
+    "image": "assets/products/jewellery-287.jpg",
+    "featured": false
+  },
+  {
+    "id": "RJ-288",
+    "name": "Rupika Signature Edit 288",
+    "category": "Jewellery",
+    "description": "Timeless in spirit and easy to style, this piece was selected for celebrations, gatherings and memorable days.",
+    "image": "assets/products/jewellery-288.jpg",
+    "featured": false
+  }
+]
